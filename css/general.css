@@ -66,10 +66,10 @@ li {
     color: #F00;
 }
 
-ul li:first child {
+ul li:first-child {
     background-color: #000;
 }
 
-ol li:last child {
+ol li:last-child {
     background-color: #F90;
 }    
